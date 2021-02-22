@@ -1,4 +1,4 @@
 git-intro
 =========
 
-Introduction to Git.
+Basic introduction to Git.
